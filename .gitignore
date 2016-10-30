@@ -1,0 +1,10 @@
+libs/
+
+libs/*
+.classpath
+.project
+.settings
+bin/
+bin/*
+src/com/imac/Main.java
+src/com/imac/test.java
