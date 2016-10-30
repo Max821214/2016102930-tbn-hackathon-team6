@@ -6,3 +6,5 @@ libs/*
 .settings
 bin/
 bin/*
+src/com/imac/Main.java
+src/com/imac/test.java
