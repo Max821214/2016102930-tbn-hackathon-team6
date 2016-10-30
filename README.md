@@ -27,7 +27,7 @@
 
 ### 架構流程
 
-	<center> ![Flow](./images/flow.png)
+<center> ![Flow](./images/flow.png)
 
 ### 未來展望
 - 目前只有針對台中地區資料分析，未來將會加入全國資料做統計分析
