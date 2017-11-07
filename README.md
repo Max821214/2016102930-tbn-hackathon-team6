@@ -12,7 +12,7 @@
 
 	Apache Spark是一個開源叢集運算框架，最初是由加州大學柏克萊分校AMPLab所開發，使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。
 
-![Spark](./images/spark.png)
+<div align=center>![Spark](./images/spark.png)</div>
 
 - ELK
 
