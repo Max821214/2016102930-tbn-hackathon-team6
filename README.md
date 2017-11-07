@@ -11,9 +11,7 @@
 - Spark
 
 	Apache Spark是一個開源叢集運算框架，最初是由加州大學柏克萊分校AMPLab所開發，使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。
-
-	<center> ![Spark]
-	(./images/spark.png)
+![Spark](./images/spark.png)
 
 - ELK
 
@@ -23,8 +21,7 @@
 	- Logstash:協助收集各種 log 或其他資訊，並根據所需結果過濾轉換成所需資料
 	- Kibana:基於 elasticsearch 的前端視覺化工具，並根據 log 資料在瀏覽器上做長條圖、圓餅圖等...統計顯示
 	
-![ELK]
-(https://github.com/Max821214/2016102930-tbn-hackathon-team6/blob/master/images/elk.png)
+![ELK](./images/elk.png)
 
 
 ### 架構流程
