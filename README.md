@@ -23,7 +23,8 @@
 	- Logstash:協助收集各種 log 或其他資訊，並根據所需結果過濾轉換成所需資料
 	- Kibana:基於 elasticsearch 的前端視覺化工具，並根據 log 資料在瀏覽器上做長條圖、圓餅圖等...統計顯示
 	
-	<center> ![ELK](https://github.com/Max821214/2016102930-tbn-hackathon-team6/blob/master/images/elk.png)
+	<center> ![ELK]
+	(https://github.com/Max821214/2016102930-tbn-hackathon-team6/blob/master/images/elk.png)
 
 
 ### 架構流程
